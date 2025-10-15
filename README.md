@@ -21,15 +21,15 @@
   </tr>
   <tr>
     <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-00353'>BDU:2015-00353</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-00149'>BDU:2015-00149</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04145'>BDU:2015-04145</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04144'>BDU:2015-04144</a></td>
     <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04146'>BDU:2015-04146</a></td>
-  </tr>
-  <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04147'>BDU:2015-04147</a></td>
     <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04148'>BDU:2015-04148</a></td>
     <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-00158'>BDU:2015-00158</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04144'>BDU:2015-04144</a></td>
+  </tr>
+  <tr>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-00149'>BDU:2015-00149</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04147'>BDU:2015-04147</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04145'>BDU:2015-04145</a></td>
     <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-04143'>BDU:2015-04143</a></td>
     <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-03578'>BDU:2021-03578</a></td>
   </tr>
@@ -54,39 +54,39 @@
 
 <table>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-11366'>BDU:2025-11366</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-11372'>BDU:2025-11372</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-11373'>BDU:2025-11373</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-08759'>BDU:2024-08759</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2016-01905'>BDU:2016-01905</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-07415'>BDU:2024-07415</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-07171'>BDU:2024-07171</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06681'>BDU:2022-06681</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06825'>BDU:2022-06825</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-07010'>BDU:2022-07010</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00587'>BDU:2021-00587</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06687'>BDU:2022-06687</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06356'>BDU:2022-06356</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2020-01111'>BDU:2020-01111</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2020-01086'>BDU:2020-01086</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2017-02286'>BDU:2017-02286</a></td>
+  </tr>
+  <tr>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2017-02284'>BDU:2017-02284</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-07002'>BDU:2022-07002</a></td>
     <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2023-06311'>BDU:2023-06311</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-05002'>BDU:2022-05002</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-05200'>BDU:2022-05200</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06087'>BDU:2022-06087</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06988'>BDU:2022-06988</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-00754'>BDU:2018-00754</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00336'>BDU:2021-00336</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00337'>BDU:2021-00337</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00342'>BDU:2021-00342</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06232'>BDU:2022-06232</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2023-01525'>BDU:2023-01525</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-07011'>BDU:2022-07011</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-06513'>BDU:2015-06513</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-06526'>BDU:2015-06526</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-06518'>BDU:2015-06518</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-06508'>BDU:2015-06508</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-02697'>BDU:2024-02697</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00212'>BDU:2021-00212</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-08727'>BDU:2024-08727</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-07935'>BDU:2024-07935</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06717'>BDU:2022-06717</a></td>
-  </tr>
-  <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00577'>BDU:2021-00577</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00240'>BDU:2021-00240</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00343'>BDU:2021-00343</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00241'>BDU:2021-00241</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2021-00239'>BDU:2021-00239</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-07151'>BDU:2022-07151</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-01397'>BDU:2025-01397</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-10176'>BDU:2024-10176</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-07394'>BDU:2022-07394</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06794'>BDU:2022-06794</a></td>
   </tr>
 </table>
 
@@ -95,39 +95,39 @@
 
 <table>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2020-00332'>BDU:2020-00332</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2023-08995'>BDU:2023-08995</a></td>
     <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-10834'>BDU:2025-10834</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-11233'>BDU:2025-11233</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-12657'>BDU:2025-12657</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-12706'>BDU:2025-12706</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-11209'>BDU:2015-11209</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2016-01905'>BDU:2016-01905</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-07077'>BDU:2022-07077</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2023-07322'>BDU:2023-07322</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-08978'>BDU:2025-08978</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-08979'>BDU:2025-08979</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-04014'>BDU:2025-04014</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2024-02457'>BDU:2024-02457</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-09649'>BDU:2025-09649</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-07183'>BDU:2015-07183</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-07180'>BDU:2015-07180</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-07188'>BDU:2015-07188</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-07186'>BDU:2015-07186</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-12737'>BDU:2025-12737</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-12644'>BDU:2025-12644</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-11295'>BDU:2025-11295</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-12662'>BDU:2025-12662</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01463'>BDU:2015-01463</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-08593'>BDU:2015-08593</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-08592'>BDU:2015-08592</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-08591'>BDU:2015-08591</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-08590'>BDU:2015-08590</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2017-02360'>BDU:2017-02360</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-09592'>BDU:2015-09592</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01428'>BDU:2015-01428</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-03347'>BDU:2015-03347</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01431'>BDU:2015-01431</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01434'>BDU:2015-01434</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-01242'>BDU:2018-01242</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-01243'>BDU:2018-01243</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-01229'>BDU:2018-01229</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2022-06978'>BDU:2022-06978</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-01465'>BDU:2018-01465</a></td>
   </tr>
   <tr>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-03346'>BDU:2015-03346</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01429'>BDU:2015-01429</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01435'>BDU:2015-01435</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-03345'>BDU:2015-03345</a></td>
-    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2015-01433'>BDU:2015-01433</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2019-04246'>BDU:2019-04246</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-01235'>BDU:2018-01235</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2018-01234'>BDU:2018-01234</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2017-02357'>BDU:2017-02357</a></td>
+    <td><a href='https://vedas.arpsyndicate.io/?vuln=BDU:2025-02473'>BDU:2025-02473</a></td>
   </tr>
 </table>
 
